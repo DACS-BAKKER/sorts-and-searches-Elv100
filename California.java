@@ -1,6 +1,13 @@
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
+
+/*
+ * Elven Shum
+ * California Problem
+ * "Alternative Alphabetizing"
+ */
+
 public class California {
     private California() { }
 //

@@ -1,6 +1,12 @@
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
+/*
+ * Elven Shum
+ * Quick Sort
+ */
+
+
 public class Quick {
     private Quick() {}
 

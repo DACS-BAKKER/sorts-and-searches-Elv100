@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 
 /*
  * Stack Implementation w/ Iterable w/ TestClient
- * October 22, 2019
+ * October 22 2019
  * Elven Shum
  */
 

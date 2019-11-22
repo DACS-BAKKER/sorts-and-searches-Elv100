@@ -1,6 +1,11 @@
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
+/*
+ * Elven Shum
+ * Insertion Sort
+ */
+
 public class Insertion {
     private Insertion() {}
 

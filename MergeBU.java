@@ -1,6 +1,12 @@
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
+
+/*
+ * Elven Shum
+ * Bottom Up Merge Sort
+ */
+
 public class MergeBU {
     private MergeBU() {
     }

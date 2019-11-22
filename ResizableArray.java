@@ -2,6 +2,13 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Iterator;
 
+
+/*
+ * Elven Shum
+ * Resizable Arrays
+ */
+
+
 public class ResizableArray {
     private int[] a;
     private int size;
